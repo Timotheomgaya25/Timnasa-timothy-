@@ -1,10 +1,10 @@
-## YESSER MD
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Yesser+md+Created+by+yesser teach.&heart;++;Self-taught+Back-Created+By,;yesser+teach+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+## BONIPHACE MD
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Boniphace+md+Created+by+Boniphace.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/ee3114af9ea1135c8e097.jpg">
- <img alt="YESSER-MD" height="300" src=">
+ <img alt="BONIPHACE-MD" height="300" src="https://telegra.ph/file/ee3114af9ea1135c8e097.jpg">
   
 </h1> 
-<p align="center">l introduce <b>YESSER-MD</b>, a powerful simple WhatsApp bot </p>
+<p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
 
 </p>
   <p align="center">
@@ -50,11 +50,11 @@
 
 
 
-## HOW TO DEPLOY YESSER MD
+## HOW TO DEPLOY BONIPHACE MD
 
 
 ## 1.FIRST STEP 
-## Fork YESSER Md Repo
+## Fork Boniphace Md Repo
 👇 👇  👇 👇
 <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
@@ -65,25 +65,19 @@ star✨ my repo if you like this bot🤖
 
 
  GET SESSION ID BY
+ 
+### HEROKU QR 
 
-### QR SITE
+<a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-<a href="https://boniphace-md-pair-924e823f5267.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-### SESSION SITE
-
-<a href="https://boniphace-md-pair-924e823f5267.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-
-
+### HEROKU SESSION
+ 
+<a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ### 3.THIRD STEP 
-1. If You Don't Have An Account On Heroku**
-
-   <br>
-    <a 
-<a align="center"><a href="https://signup.heroku.com">
+**1. If You Don't Have An Account On Heroku**
+- <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-darkblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### 2. If You Have Account On Heroku**👇 👇 👇
@@ -115,10 +109,10 @@ CONTACT DEVELOPER ON WHATSAPP
 
 ## License
 
-The WhatsApp Bot YESSER-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 THANK YOU FOR CHOOSING YESSER-MD 🌟
+🌟 THANK YOU FOR CHOOSING BONIPHACE-MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
@@ -127,7 +121,7 @@ The WhatsApp Bot YESSER-MD is released under the [MIT License](https://opensourc
 - [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-★im born to win 😂. ©
+★THANKS BE TO GOG 🙏. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
      
