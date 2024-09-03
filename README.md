@@ -1,4 +1,3 @@
-## YESSER MD
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•HELLOW 👋+I'M+YESSER+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+YESESSER+TECH;RELEASED+YEAR+2024." alt="Typing SVG.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/ee3114af9ea1135c8e097.jpg">
  <img alt="YESSER-MD" height="300" src="https://telegra.ph/file/ee3114af9ea1135c8e097.jpg">
