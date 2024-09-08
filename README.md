@@ -55,7 +55,7 @@
 ## 1.FIRST STEP 
 ## Fork YESSER Md Repo
 👇 👇  👇 👇
-_ <a href="https://github.com/Yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+_ <a href="https://github.com/Yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 star✨ my repo if you like this bot🤖
 
@@ -67,22 +67,22 @@ star✨ my repo if you like this bot🤖
  
 ### HEROKU QR 
 
-_ <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+_ <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### HEROKU SESSION
  
-_ <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=yellow&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+_ <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ### 3.THIRD STEP 
 **1. If You Don't Have An Account On Heroku**
 - <a align="center"><a href="https://signup.heroku.com">
- <img src="https://img.shields.io/badge/Create%20Account%20Now-yellow?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### 2. If You Have Account On Heroku**👇 👇 👇
 
    <br>
-   _ <a href='https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-MD' target="_yellow"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+_ <a href='https://dashboard.heroku.com/new?template=https://github.com/Yassin994/YESSER-MD' target="_green"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
 ### DEPLOY ON RENDER
