@@ -1,16 +1,16 @@
 {
-  "name":"BONIPHACE-MD UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
+  "name":"YESSER-MD UPDATE BY ME",
+  "description":"Best WhatsApp Bot Developed By yesser Tech Contact me 255621995482, Thank you for choose YESSER-MD",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/5462ea7070b61eb790caa.jpg",
-  "repository":"https://github.com/boniphace478/BONIPHACE-MD",
+  "logo":"https://telegra.ph/file/37882de26f9ffc60043ef.jpg",
+  "repository":"https://github.com/yassin994/YESSER-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"*",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"YESSER-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/3dd4203db276e0fb61957.jpg",
+      "value":"https://telegra.ph/file/37882de26f9ffc60043ef.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH👑"
+    "value": "YESSER BOY😎"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255621995482"
 	  
   },
     "WARN_COUNT":
@@ -98,7 +98,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"1",
+    "value":"3",
     "required": true 
   },
   "ANTI_DELETE_MESSAGE" : {
