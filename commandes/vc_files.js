@@ -40,7 +40,7 @@ zokou({ nomCom: 'vcf',
 zokou({ nomCom: 'getall',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '😎', 
+    reaction: '✍️', 
     fromMe: 'true', 
 
 
@@ -78,10 +78,10 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'channel1',
+zokou({ nomCom: 'you',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🍁', 
+    reaction: '😃', 
     fromMe: 'true', 
 
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'channel1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top here to join my second channel https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
+                 await repondre(`top here to join my YouTube channel https://www.youtube.com/@Yesserboy92`) 
 
    
 
@@ -101,7 +101,7 @@ zokou({ nomCom: 'channel1',
 zokou({ nomCom: 'update',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🤷', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_𝔹𝕆ℕ𝕀ℙℍ𝔸ℂ𝔼~𝕄𝔻 is running...... Love it_*`) 
+                 await repondre(`*_YESSER~MD is running...... Love it💞_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_BONIPHACE-MD_*`) 
+                 await repondre(`*_YESSER-MD_*`) 
 
    
 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top a link to join boniphace group  https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
+                 await repondre(`top a link to join BONIPHACE MD group  https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
 
    
 
@@ -170,7 +170,7 @@ zokou({ nomCom: 'scriptkidies',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`top here to Boniphace script kiddies group https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
+                 await repondre(`top here to YESSER script kiddies group https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
 
    
 
@@ -179,10 +179,10 @@ zokou({ nomCom: 'scriptkidies',
 )
 
 
-zokou({ nomCom: 'boniphace',
+zokou({ nomCom: 'yesserboy',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🤷', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
@@ -202,7 +202,7 @@ zokou({ nomCom: 'boniphace',
 zokou({ nomCom: 'me',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🤷', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
@@ -210,7 +210,7 @@ zokou({ nomCom: 'me',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_255716661569,255767528416*`) 
+                 await repondre(`*_255621995482,255621995482*`) 
 
    
 
@@ -222,7 +222,7 @@ zokou({ nomCom: 'me',
 zokou({ nomCom: 'problem',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🤷', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
@@ -231,19 +231,21 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*┏━━━━━━━━━━━━━━
-┃BONIPHACE-MD 🎉🎉🎉 
-| NEVER 
-┃DIE🔥
+┃YESSER-MD 🎉🎉🎉 
+| MR.NEVER 
+┃ TOLD😭
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 BONIPHACE TECH 𖥘
+❶ || Creator = 𖥘 YESSER TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/boniphaceTech 👈
+Wanna talk to me?👉 (https://t.me/255621995482)YESSER BOY 👈
+Then follow my YouTube channel= https://www.youtube.com/@Yesserboy92
+👍APO UTAKUA UMETISHA SANA😂
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 BONIPHACE TECH**`) 
+©*2024-2099 YESSER TECH**`) 
 
    
 
