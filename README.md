@@ -1,4 +1,4 @@
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•HELLOW 👋+I'M+YESSER+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+YESESSER+TECH;RELEASED+YEAR+2024." alt="Typing SVG.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+u <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=100&random=false&width=435&lines=+•HELLOW 👋+I'M+YESSER+MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+YESESSER+TECH;RELEASED+YEAR+2024." alt="Typing SVG.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://telegra.ph/file/ee3114af9ea1135c8e097.jpg">
  <img alt="YESSER-MD" height="300" src="https://telegra.ph/file/ee3114af9ea1135c8e097.jpg">
   
@@ -103,7 +103,7 @@ CONTACT DEVELOPER ON WHATSAPP
   
  
 <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ YESSER_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE MD  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
