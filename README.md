@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Yassin994/yesser-md"><b>Boniphace-md</b></a> Support Deploy On...
+  <a href="https://github.com/Yassin994/yesser-md"><b>yesser-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -49,11 +49,11 @@
 
 
 
-## HOW TO DEPLOY BONIPHACE MD
+## HOW TO DEPLOY YESSER MD
 
 
 ## 1.FIRST STEP 
-## Fork Boniphace Md Repo
+## Fork YESSER Md Repo
 👇 👇  👇 👇
 <a href="https://github.com/Yassin994/YESSER-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
@@ -97,30 +97,31 @@ star✨ my repo if you like this bot🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.link/4d9cpj" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/yesser tech contact -255621995482?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
 <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ YESSER_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
 
-The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot YESSER-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 THANK YOU FOR CHOOSING BONIPHACE-MD 🌟
+🌟 THANK YOU FOR CHOOSING YESSER-MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
-
+-.[**YESSER TEACH**]
+(https://wa.me.255621995482)
 - [**BONIPHACE TECH**](https://github.com/boniphace478)
 - [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-★THANKS BE TO GOG 🙏. ©
+★IM BORN TO WIN 🙏. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
      
