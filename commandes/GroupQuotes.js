@@ -37,7 +37,7 @@ Powered by *BONIPHACE-MD*`);
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *BONIPHACE-MD*`);
+Powered by *YESSER-MD*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
