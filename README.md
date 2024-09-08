@@ -67,7 +67,7 @@ star✨ my repo if you like this bot🤖
  
 ### HEROKU QR 
 
-   _ <a href="https://boniphace-pair-2024-61fe1310ac3b.herokuapp.com/qr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+   _ <a href="https://yesser.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### HEROKU SESSION
  
