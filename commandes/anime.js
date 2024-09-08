@@ -147,7 +147,7 @@ zokou({
       let stickerMess = new Sticker(response.data.result, {
         pack: nomAuteurMessage,
         type: StickerTypes.CROPPED,
-        categories: ["🤩", "🎉"],
+        categories: ["😊", "👍"],
         id: "12345",
         quality: 70,
         background: "transparent",
