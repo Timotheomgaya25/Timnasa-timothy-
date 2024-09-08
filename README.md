@@ -96,7 +96,7 @@ star✨ my repo if you like this bot🤖
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="Message ༆y͟e͟s͟s͟e͟r͟b͟o͟y͟༆ on WhatsApp. https://wa.me/255621995482" target="_blank">
+<a href="https://wa.me/255621995482" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/yesser tech contact -255621995482?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
