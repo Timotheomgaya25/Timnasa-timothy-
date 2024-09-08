@@ -47,11 +47,11 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *running on* : ${os.platform()}
     ▸ *theme* : *YESSER TEACH*
 
-> BONIPHACE MD 2024\n${readmore}`;
+> YESSER MD 2024\n${readmore}`;
     
 let menuMsg = `
 
- * Boniphace Md COMMADS *${readmore}
+ * YESSER Md COMMADS *${readmore}
 `;
 
     for (const cat in coms) {
