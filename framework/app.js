@@ -5,4 +5,3 @@ async function reagir(dest, zok, msg, emoji) {
     await zok.sendMessage(dest, { react: { text: emoji, key: msg.key } });
 }
 exports.reagir = reagir;
-
